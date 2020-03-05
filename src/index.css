@@ -1,0 +1,58 @@
+body {
+  background-color: aquamarine;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.row {
+}
+
+.btn-red {
+  background-color: red;
+  border: 2px solid red
+}
+
+.btn-white {
+  background-color: white;
+  border: 2px solid white;
+}
+
+.btn-green {
+  background-color: green;
+  border: 2px solid green;
+}
+
+.input-field-s1 {
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.input-field-s2 {
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.input-field-s3 {
+  padding: 10px;
+  margin-left: 100px;
+}
+
+.input-field-s3  input {
+  background-color: blue;
+  border: 2px solid blue;
+}
+
+.formSubmit button {
+  margin-left: 10px;
+  background-color: blue;
+  border: 2px solid blue;
+}

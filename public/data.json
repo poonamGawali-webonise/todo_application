@@ -1,0 +1,17 @@
+{ 
+    "details" : [{
+    "id": 1,
+    "name": "Sara",
+    "age": 23,
+    "gender": "Female",
+    "department": "History",
+    "car": "Honda"
+    },
+    {
+        "id": 2,
+        "name": "payal",
+        "age": 23,
+        "gender": "Female",
+        "department": "Math"
+    }]
+}
